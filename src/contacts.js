@@ -1,27 +1,27 @@
 const contacts = [
     {
       id: 1,
-      name: "Beyonce",
+      name: "Iron Man",
       imgURL:
-        "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+        "https://www.pinkvilla.com/imageresize/iron-man-phase-4_0.jpg?width=752&format=webp&t=pvorg",
       phone: "+123 456 789",
-      email: "b@beyonce.com"
+      email: "ironman@gmail.com"
     },
     {
       id: 2,
-      name: "Jack Bauer",
+      name: "Wonder Women",
       imgURL:
-        "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+        "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1658506128.jpg",
       phone: "+987 654 321",
-      email: "jack@nowhere.com"
+      email: "wonder@gmail.com"
     },
     {
       id: 3,
-      name: "Chuck Norris",
+      name: "Spider Man",
       imgURL:
-        "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
-      phone: "+918 372 574",
-      email: "gmail@chucknorris.com"
+        "https://www.parisbeacon.com/wp-content/uploads/2022/03/Spider-Man-No-Way-Home-traje-final.jpg",
+      phone: "+912345838567",
+      email: "spider@gmail.com"
     }
   ];
   
